@@ -35,3 +35,8 @@ I am a recent computer science graduate passionate about technology and problem-
 ## Web Application Testing
 
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Penetration%20Testing-black?style=for-the-badge&logo=protonvpn&logoColor=orange)
+
+## Man-in-the-Middle (MITM)
+
+![Ettercap](https://img.shields.io/badge/MITM-Ettercap-red?style=for-the-badge&logo=hackthebox&logoColor=white)
+
