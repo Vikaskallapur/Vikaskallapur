@@ -21,15 +21,28 @@ I am a recent computer science graduate passionate about technology and problem-
  ![theHarvester](https://img.shields.io/badge/theHarvester-Information%20Gathering-black?style=for-the-badge&logo=protonvpn&logoColor=green)
 
  ## Packet Sniffing & Traffic Analysis
- ![Wireshark](https://img.shields.io/badge/Packet%20Analyzer-Wireshark-red?style=for-the-badge&logo=wireshark&logoColor=white)
+ 
+
+![Wireshark](https://img.shields.io/badge/Wireshark-Network%20Analyzer-blue?style=flat&logo=wireshark)
+
 
  ## Exploitation 
 
-![Metasploit](https://img.shields.io/badge/Metasploit-Penetration%20Testing-black?style=for-the-badge&logo=metasploit&logoColor=green)
+
+![Metasploit](https://img.shields.io/badge/Metasploit-Offensive%20Security-darkred?style=flat-square&logo=metasploit)
 
 ## Password Attacks / Cracking Tools
-![Hydra](https://img.shields.io/badge/Hydra-Network%20Login%20Cracker-black?style=for-the-badge&logo=protonvpn&logoColor=green)
-![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-Hash%20Cracking-black?style=for-the-badge&logo=protonvpn&logoColor=green)
+
+
+
+![Hydra](https://img.shields.io/badge/Hydra-Login%20Testing-cyan?style=plastic&logo=protonvpn)
+
+
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-Cybersecurity-green?style=plastic&logo=protonvpn)
+
+
+
+
 ![Hashcat](https://img.shields.io/badge/Hashcat-Performance%20Tool-blue?style=plastic&logo=linux)
 
 ## Wireless Network Attacks
@@ -38,7 +51,9 @@ I am a recent computer science graduate passionate about technology and problem-
 
 ## Web Application Testing
 
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Penetration%20Testing-black?style=for-the-badge&logo=protonvpn&logoColor=orange)
+
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Cybersecurity-brightgreen?style=for-the-badge&logo=protonvpn)
+
 
 ## Man-in-the-Middle (MITM)
 
