@@ -59,3 +59,10 @@ I am a recent computer science graduate passionate about technology and problem-
 
 ![Ettercap](https://img.shields.io/badge/MITM-Ettercap-red?style=for-the-badge&logo=hackthebox&logoColor=white)
 
+## Malware analysis
+
+![VirusTotal](https://img.shields.io/badge/VirusTotal-Malware%20Detection-228B22?style=flat-square&logo=virustotal&logoColor=white)
+
+## Certification
+
+
