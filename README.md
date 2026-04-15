@@ -65,4 +65,4 @@ I am a recent computer science graduate passionate about technology and problem-
 
 ## Certification
 
-- 📜 [TryHackMe Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UXMUZLVN6D.pdf)
+- 📜 [TryHackMe Pre Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UXMUZLVN6D.pdf)
