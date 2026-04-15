@@ -64,5 +64,5 @@ I am a recent computer science graduate passionate about technology and problem-
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-Malware%20Detection-228B22?style=flat-square&logo=virustotal&logoColor=white)
 
 ## Certification
-
+- 📜 [Cisco Ethical Hacker](https://drive.google.com/file/d/1Fsr-vKxuRvVGIiXJgcL2Fth1_PhpG00E/view?usp=sharing)
 - 📜 [TryHackMe Pre Security Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-UXMUZLVN6D.pdf)
